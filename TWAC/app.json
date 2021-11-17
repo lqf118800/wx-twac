@@ -9,7 +9,7 @@
   ],
   "window": {
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "演示",
+    "navigationBarTitleText": "Show",
     "navigationBarBackgroundColor": "#69c3aa",
     "backgroundColor": "#fbf9fe"
   },
@@ -21,25 +21,25 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "首页",
+        "text": "Home",
         "iconPath": "image/shouye1.png",
         "selectedIconPath": "image/shouye.png"
       },
       {
         "pagePath": "pages/faxian/faxian",
-        "text": "活动",
+        "text": "Activity",
         "iconPath": "image/huodong1.png",
         "selectedIconPath": "image/huodong.png"
       },
       {
         "pagePath": "pages/xiaoxi/xiaoxi",
-        "text": "购物车",
+        "text": "Cart",
         "iconPath": "image/car1.png",
         "selectedIconPath": "image/car.png"
       },
       {
         "pagePath": "pages/wode/wode",
-        "text": "我的",
+        "text": "Me",
         "iconPath": "image/wode1.png",
         "selectedIconPath": "image/wode.png"
       }

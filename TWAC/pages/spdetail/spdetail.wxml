@@ -10,7 +10,7 @@
 </view>
 <view class="goods_infor_top">
   <view class="goods_title">
-    1 DAY LAVENDER & FRUIT FARM EXPLORATION
+    HUON VALLEY LAVENDER & APPLE SHED EXPLORATION
     <view class="goods_collect_btn" bindtap="collect">
       <view wx:if="{{iscollect}}">
         <image src="../../image/icon-aixin.png" class="goods_collect_img"></image>
@@ -23,20 +23,62 @@
     </view>
   </view>
   <view class="goods_price">
-    <text>¥169</text>
-    <text class="goods_old_price">$99</text>
+    <text>¥99</text>
+    <text class="goods_old_price">$169</text>
   </view>
   <view class="goods_deliver">
-    *本产品由 品牌商 提供发货服务。
+      SKU: ATDW-15OCT21
   </view>
 </view>
 <view class="goods_infor_pre">
   <view class="goods_infor_txt">
     <view class="goods_infor_brand"></view>
-    <text>蜜蜂从植物的花中采取含水量约为75%的花蜜或分泌物，存入自己第二个胃中，在体内多种转化的作用下，经过15天左右反复酝酿各种维生素、矿物质和氨基酸丰富到一定的数值时，同时把花蜜中的多糖转变成人体可直接吸收的单糖葡萄糖、果糖，水分含量少于23%存贮到巢洞中，用蜂蜡密封。</text>
+    <text>
+    Visit Lavender Farm & Willie Smith apple shed to learn about the Lavender, cider & apple brandy production, plus a restaurant & gift shop.
+
+Date & Time
+- Sunday, 19 December 2021
+
+- Meet at 9:30 am
+
+- Back to Hobart by 2:40 pm
+
+ Bus Pick Up & Drop Off
+- Meeting point: Travel with a Cause Office 1st Floor, 41-43 Victoria St, Hobart TAS 7000
+
+    </text>
   </view>
 </view>
-<view class="goods_infor_raw">
+<!-- <div class="container">
+  <h1 class="title">Dropdown Menu</h1>
+  <ul>
+    <li class="dropdown">
+      <a href="#" data-toggle="dropdown">HighLights <i class="icon-arrow"></i></a>
+      <ul class="dropdown-menu">
+        <p>
+          - Lavender Farm visit
+
+          - Willie Smith apple shed visit 
+
+          - Enjoy the good smell of lavender
+
+          - Gain much knowledge about lavender from professional farmers
+
+          - Group transportation
+
+          - Morning tea, drinks & BBQ lunch
+
+        </p>
+      </ul>
+    </li>
+  </ul>
+</div> -->
+
+
+
+
+
+<!-- <view class="goods_infor_raw">
   <view class="goods_infor_item">
     <text>【品 牌】</text>蜂之堂
   </view>
@@ -64,13 +106,8 @@
   <view class="goods_infor_item">
     <text>【温馨提示】</text>请使用60度一下温水
   </view>
-</view>
-<view class="goods_detail">
-  <view class="goods_detail_title">商品详情</view>
-  <view>
-    <image bindload="cusImageLoad" src="../../image/IMG_0466.jpg" style="width:{{imageWidth}};height:{{imageHeight}}"></image>
-  </view>
-</view>
+</view> -->
+
 <view class="goods_bottom"></view>
 <view class="goods_bottom_btn">
   <view>

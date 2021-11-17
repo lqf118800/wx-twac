@@ -41,7 +41,7 @@
     <view class="single_goods_infor">
       <navigator url="../spdetail/spdetail">
         <view class="single_goods_name">
-          <text>LAVENDER & FRUIT FARM EXPLORATION</text>
+          <text>HUON VALLEY LAVENDER & APPLE SHED EXPLORATION</text>
         </view>
         <view class="single_goods_address">
           <text>Tasmania</text>
